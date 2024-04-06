@@ -1,0 +1,12 @@
+/Users/danilmakovskiy/Projects/BookLib/BookLib/obj/Debug/net7.0/BookLib.csproj.AssemblyReference.cache
+/Users/danilmakovskiy/Projects/BookLib/BookLib/obj/Debug/net7.0/BookLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilmakovskiy/Projects/BookLib/BookLib/obj/Debug/net7.0/BookLib.AssemblyInfoInputs.cache
+/Users/danilmakovskiy/Projects/BookLib/BookLib/obj/Debug/net7.0/BookLib.AssemblyInfo.cs
+/Users/danilmakovskiy/Projects/BookLib/BookLib/obj/Debug/net7.0/BookLib.csproj.CoreCompileInputs.cache
+/Users/danilmakovskiy/Projects/BookLib/BookLib/bin/Debug/net7.0/BookLib.deps.json
+/Users/danilmakovskiy/Projects/BookLib/BookLib/bin/Debug/net7.0/BookLib.dll
+/Users/danilmakovskiy/Projects/BookLib/BookLib/bin/Debug/net7.0/BookLib.pdb
+/Users/danilmakovskiy/Projects/BookLib/BookLib/obj/Debug/net7.0/BookLib.dll
+/Users/danilmakovskiy/Projects/BookLib/BookLib/obj/Debug/net7.0/refint/BookLib.dll
+/Users/danilmakovskiy/Projects/BookLib/BookLib/obj/Debug/net7.0/BookLib.pdb
+/Users/danilmakovskiy/Projects/BookLib/BookLib/obj/Debug/net7.0/ref/BookLib.dll
